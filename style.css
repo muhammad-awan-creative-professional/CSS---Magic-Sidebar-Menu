@@ -1,0 +1,15 @@
+.container{
+    background-color: aqua;
+}
+
+.sidebar .i{
+    width: 60px;
+    height: 100%;
+    background-color: rgb(6, 93, 224);
+    padding: 20px;
+    box-sizing: border-box;
+    color: #fff;
+    overflow: hidden;
+    border-radius: 5px 0 0 5px;
+    
+}
